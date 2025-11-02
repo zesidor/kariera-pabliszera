@@ -19,7 +19,7 @@ export default function RegisterForm() {
     const data = await res.json();
     if (res.ok) {
       setMessage("User registered successfully!");
-      router.push("/dashboard");
+      router.push("/wykres");
     } else {
       setMessage(data.error || "Something went wrong");
     }

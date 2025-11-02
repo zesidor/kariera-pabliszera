@@ -1,0 +1,1162 @@
+[
+  {
+    "month": "Jul 2014",
+    "monthUnix": 1404172800,
+    "gross": null,
+    "net": "3,380.39",
+    "type": "Salary",
+    "gna": 3783.46
+  },
+  {
+    "month": "Aug 2014",
+    "monthUnix": 1406851200,
+    "gross": null,
+    "net": "3,331.47",
+    "type": "Salary",
+    "gna": 3899.78
+  },
+  {
+    "month": "Sep 2014",
+    "monthUnix": 1409529600,
+    "gross": null,
+    "net": "3,380.38",
+    "type": "Salary",
+    "gna": 3899.78
+  },
+  {
+    "month": "Oct 2014",
+    "monthUnix": 1412121600,
+    "gross": null,
+    "net": "3,340.38",
+    "type": "Salary",
+    "gna": 3899.78
+  },
+  {
+    "month": "Nov 2014",
+    "monthUnix": 1414800000,
+    "gross": null,
+    "net": "3,504.68",
+    "type": "Salary",
+    "gna": 3899.78
+  },
+  {
+    "month": "Dec 2014",
+    "monthUnix": 1417392000,
+    "gross": null,
+    "net": 3635.53,
+    "type": "Salary",
+    "gna": 3899.78
+  },
+  {
+    "month": "Jan 2015",
+    "monthUnix": 1420070400,
+    "gross": null,
+    "net": "3,635.53",
+    "type": "Salary",
+    "gna": 3899.78
+  },
+  {
+    "month": "Feb 2015",
+    "monthUnix": 1422748800,
+    "gross": null,
+    "net": "3,635.53",
+    "type": "Salary",
+    "gna": 3912.301452054794
+  },
+  {
+    "month": "Mar 2015",
+    "monthUnix": 1425168000,
+    "gross": null,
+    "net": "3,635.53",
+    "type": "Salary",
+    "gna": 3923.611150684932
+  },
+  {
+    "month": "Apr 2015",
+    "monthUnix": 1427846400,
+    "gross": null,
+    "net": "3,635.53",
+    "type": "Salary",
+    "gna": 3936.132602739726
+  },
+  {
+    "month": "May 2015",
+    "monthUnix": 1430438400,
+    "gross": null,
+    "net": "3,622.53",
+    "type": "Salary",
+    "gna": 3948.250136986302
+  },
+  {
+    "month": "Jun 2015",
+    "monthUnix": 1433116800,
+    "gross": null,
+    "net": 3622.53,
+    "type": "Salary",
+    "gna": 3960.771589041096
+  },
+  {
+    "month": "Jul 2015",
+    "monthUnix": 1435708800,
+    "gross": null,
+    "net": "3,477.51",
+    "type": "Salary",
+    "gna": 3972.889123287671
+  },
+  {
+    "month": "Aug 2015",
+    "monthUnix": 1438387200,
+    "gross": null,
+    "net": "3,621.53",
+    "type": "Salary",
+    "gna": 3985.410575342466
+  },
+  {
+    "month": "Sep 2015",
+    "monthUnix": 1441065600,
+    "gross": null,
+    "net": "3,621.53",
+    "type": "Salary",
+    "gna": 3997.93202739726
+  },
+  {
+    "month": "Oct 2015",
+    "monthUnix": 1443657600,
+    "gross": null,
+    "net": "3,621.53",
+    "type": "Salary",
+    "gna": 4010.049561643836
+  },
+  {
+    "month": "Nov 2015",
+    "monthUnix": 1446336000,
+    "gross": null,
+    "net": 3621.53,
+    "type": "Salary",
+    "gna": 4022.57101369863
+  },
+  {
+    "month": "Dec 2015",
+    "monthUnix": 1448928000,
+    "gross": null,
+    "net": "3,621.53",
+    "type": "Salary",
+    "gna": 4034.68854794521
+  },
+  {
+    "month": "Dec 2015",
+    "monthUnix": 1451606400,
+    "gross": null,
+    "net": " 4,107.98",
+    "type": "Bonus",
+    "gna": 4034.68854794521
+  },
+  {
+    "month": "Jan 2016",
+    "monthUnix": 1454284800,
+    "gross": null,
+    "net": "3,711.16",
+    "type": "Salary",
+    "gna": 4047.21
+  },
+  {
+    "month": "Feb 2016",
+    "monthUnix": 1456790400,
+    "gross": null,
+    "net": "3,707.08",
+    "type": "Salary",
+    "gna": 4066.208087431694
+  },
+  {
+    "month": "Mar 2016",
+    "monthUnix": 1459468800,
+    "gross": null,
+    "net": "5,642.84",
+    "type": "Salary",
+    "gna": 4083.980491803279
+  },
+  {
+    "month": "Apr 2016",
+    "monthUnix": 1462060800,
+    "gross": null,
+    "net": "3,493.95",
+    "type": "Salary",
+    "gna": 4102.978579234973
+  },
+  {
+    "month": "May 2016",
+    "monthUnix": 1464739200,
+    "gross": null,
+    "net": "3,645.08",
+    "type": "Salary",
+    "gna": 4121.363825136612
+  },
+  {
+    "month": "Jun 2016",
+    "monthUnix": 1467331200,
+    "gross": null,
+    "net": "3,645.08",
+    "type": "Salary",
+    "gna": 4140.361912568306
+  },
+  {
+    "month": "Jul 2016",
+    "monthUnix": 1470009600,
+    "gross": null,
+    "net": "3,645.08",
+    "type": "Salary",
+    "gna": 4158.747158469945
+  },
+  {
+    "month": "Aug 2016",
+    "monthUnix": 1472688000,
+    "gross": null,
+    "net": "3,645.08",
+    "type": "Salary",
+    "gna": 4177.745245901639
+  },
+  {
+    "month": "Sep 2016",
+    "monthUnix": 1475280000,
+    "gross": null,
+    "net": "3,645.08",
+    "type": "Salary",
+    "gna": 4196.743333333334
+  },
+  {
+    "month": "Oct 2016",
+    "monthUnix": 1477958400,
+    "gross": null,
+    "net": "3,612.53",
+    "type": "Salary",
+    "gna": 4215.128579234973
+  },
+  {
+    "month": "Nov 2016",
+    "monthUnix": 1480550400,
+    "gross": null,
+    "net": "3,612.53 ",
+    "type": "Salary",
+    "gna": 4234.12666666667
+  },
+  {
+    "month": "Nov 2016",
+    "monthUnix": 1483228800,
+    "gross": null,
+    "net": "4,189.56",
+    "type": "Bonus",
+    "gna": 4234.12666666667
+  },
+  {
+    "month": "Dec 2016",
+    "monthUnix": 1485907200,
+    "gross": null,
+    "net": "3,685.04",
+    "type": "Salary",
+    "gna": 4252.511912568306
+  },
+  {
+    "month": "Jan 2017",
+    "monthUnix": 1488326400,
+    "gross": null,
+    "net": "3,685.04",
+    "type": "Salary",
+    "gna": 4271.51
+  },
+  {
+    "month": "Feb 2017",
+    "monthUnix": 1491004800,
+    "gross": null,
+    "net": "3,511.04",
+    "type": "Salary",
+    "gna": 4298.137726027398
+  },
+  {
+    "month": "Mar 2017",
+    "monthUnix": 1493596800,
+    "gross": null,
+    "net": "3,511.04",
+    "type": "Salary",
+    "gna": 4322.188575342466
+  },
+  {
+    "month": "Apr 2017",
+    "monthUnix": 1496275200,
+    "gross": null,
+    "net": "3,510.04",
+    "type": "Salary",
+    "gna": 4348.816301369863
+  },
+  {
+    "month": "May 2017",
+    "monthUnix": 1498867200,
+    "gross": null,
+    "net": "3,497.04",
+    "type": "Salary",
+    "gna": 4374.585068493151
+  },
+  {
+    "month": "Jun 2017",
+    "monthUnix": 1501545600,
+    "gross": null,
+    "net": "3,279.18",
+    "type": "Salary",
+    "gna": 4401.212794520548
+  },
+  {
+    "month": "Jul 2017",
+    "monthUnix": 1504224000,
+    "gross": null,
+    "net": "3,496.65",
+    "type": "Salary",
+    "gna": 4426.981561643835
+  },
+  {
+    "month": "Aug 2017",
+    "monthUnix": 1506816000,
+    "gross": null,
+    "net": "3,496.65",
+    "type": "Salary",
+    "gna": 4453.609287671233
+  },
+  {
+    "month": "Sep 2017",
+    "monthUnix": 1509494400,
+    "gross": null,
+    "net": "3,496.65",
+    "type": "Salary",
+    "gna": 4480.23701369863
+  },
+  {
+    "month": "Oct 2017",
+    "monthUnix": 1512086400,
+    "gross": null,
+    "net": "3,485.25",
+    "type": "Salary",
+    "gna": 4506.005780821918
+  },
+  {
+    "month": "Nov 2017",
+    "monthUnix": 1514764800,
+    "gross": "4,746.85",
+    "net": "3,307.41",
+    "type": "Bonus",
+    "gna": 4558.4022739726
+  },
+  {
+    "month": "Nov 2017",
+    "monthUnix": 1517443200,
+    "gross": "6,377.59",
+    "net": "3,485.25",
+    "type": "Salary",
+    "gna": 4558.4022739726
+  },
+  {
+    "month": "Dec 2017",
+    "monthUnix": 1519862400,
+    "gross": "6,205.81",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 4558.4022739726
+  },
+  {
+    "month": "Jan 2018",
+    "monthUnix": 1522540800,
+    "gross": "6,205.82",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 4585.03
+  },
+  {
+    "month": "Feb 2018",
+    "monthUnix": 1525132800,
+    "gross": "6,205.82",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 4613.324082191781
+  },
+  {
+    "month": "Mar 2018",
+    "monthUnix": 1527811200,
+    "gross": "5,963.14",
+    "net": "3,490.35",
+    "type": "Salary",
+    "gna": 4638.88002739726
+  },
+  {
+    "month": "Apr 2018",
+    "monthUnix": 1530403200,
+    "gross": "6,145.15",
+    "net": "3,530.38",
+    "type": "Salary",
+    "gna": 4667.174109589041
+  },
+  {
+    "month": "May 2018",
+    "monthUnix": 1533081600,
+    "gross": "6,067.93",
+    "net": "3,374.48",
+    "type": "Salary",
+    "gna": 4694.555479452055
+  },
+  {
+    "month": "Jun 2018",
+    "monthUnix": 1535760000,
+    "gross": "6,205.82",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 4722.849561643836
+  },
+  {
+    "month": "Jul 2018",
+    "monthUnix": 1538352000,
+    "gross": "6,205.82",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 4750.23093150685
+  },
+  {
+    "month": "Aug 2018",
+    "monthUnix": 1541030400,
+    "gross": "6,205.82",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 4778.52501369863
+  },
+  {
+    "month": "Sep 2018",
+    "monthUnix": 1543622400,
+    "gross": "6,205.82",
+    "net": "3,469.16",
+    "type": "Salary",
+    "gna": 4806.819095890411
+  },
+  {
+    "month": "Oct 2018",
+    "monthUnix": 1546300800,
+    "gross": "6,216.53",
+    "net": "3,436.72",
+    "type": "Salary",
+    "gna": 4834.200465753424
+  },
+  {
+    "month": "Nov 2018",
+    "monthUnix": 1548979200,
+    "gross": "5,506.34",
+    "net": "3,836.79",
+    "type": "Bonus",
+    "gna": 4862.49454794521
+  },
+  {
+    "month": "Nov 2018",
+    "monthUnix": 1551398400,
+    "gross": "6,038.42",
+    "net": "3,360.79",
+    "type": "Salary",
+    "gna": 4862.49454794521
+  },
+  {
+    "month": "Dec 2018",
+    "monthUnix": 1554076800,
+    "gross": "6,389.24",
+    "net": "3,555.67",
+    "type": "Salary",
+    "gna": 4889.875917808219
+  },
+  {
+    "month": "Jan 2019",
+    "monthUnix": 1556668800,
+    "gross": "6,700.20",
+    "net": "3,555.67",
+    "type": "Salary",
+    "gna": 4918.17
+  },
+  {
+    "month": "Feb 2019",
+    "monthUnix": 1559347200,
+    "gross": "6,444.00",
+    "net": "3,555.67",
+    "type": "Salary",
+    "gna": 4939.343424657534
+  },
+  {
+    "month": "Mar 2019",
+    "monthUnix": 1561939200,
+    "gross": "6,389.24",
+    "net": "3,555.67",
+    "type": "Salary",
+    "gna": 4958.467808219179
+  },
+  {
+    "month": "Apr 2019",
+    "monthUnix": 1564617600,
+    "gross": "6,389.24",
+    "net": "3,555.67",
+    "type": "Salary",
+    "gna": 4979.641232876713
+  },
+  {
+    "month": "May 2019",
+    "monthUnix": 1567296000,
+    "gross": "6,389.24",
+    "net": "3,555.67",
+    "type": "Salary",
+    "gna": 5000.131643835616
+  },
+  {
+    "month": "Jun 2019",
+    "monthUnix": 1569888000,
+    "gross": "6,935.48",
+    "net": "3,936.60",
+    "type": "Salary",
+    "gna": 5021.30506849315
+  },
+  {
+    "month": "Jul 2019",
+    "monthUnix": 1572566400,
+    "gross": "6,235.24",
+    "net": "3,557.74",
+    "type": "Salary",
+    "gna": 5041.795479452055
+  },
+  {
+    "month": "Aug 2019",
+    "monthUnix": 1575158400,
+    "gross": "5,736.76",
+    "net": "3,329.67",
+    "type": "Salary",
+    "gna": 5062.968904109589
+  },
+  {
+    "month": "Sep 2019",
+    "monthUnix": 1577836800,
+    "gross": "6,235.24",
+    "net": "3,631.74",
+    "type": "Salary",
+    "gna": 5084.142328767123
+  },
+  {
+    "month": "Oct 2019",
+    "monthUnix": 1580515200,
+    "gross": "6,251.24",
+    "net": "3,593.30",
+    "type": "Salary",
+    "gna": 5104.632739726027
+  },
+  {
+    "month": "Nov 2019",
+    "monthUnix": 1583020800,
+    "gross": "5,907.83",
+    "net": "3,454.28",
+    "type": "Salary",
+    "gna": 5125.80616438356
+  },
+  {
+    "month": "Nov 2019",
+    "monthUnix": 1585699200,
+    "gross": "5,671.53",
+    "net": "3,888.09",
+    "type": "Bonus",
+    "gna": 5125.80616438356
+  },
+  {
+    "month": "Dec 2019",
+    "monthUnix": 1588291200,
+    "gross": "6,277.87",
+    "net": "3,493.44",
+    "type": "Salary",
+    "gna": 5146.296575342466
+  },
+  {
+    "month": "Jan 2020",
+    "monthUnix": 1590969600,
+    "gross": "6,500.71",
+    "net": "3,469.29",
+    "type": "Salary",
+    "gna": 5167.47
+  },
+  {
+    "month": "Feb 2020",
+    "monthUnix": 1593561600,
+    "gross": "5,778.39",
+    "net": "3,423.00",
+    "type": "Salary",
+    "gna": 5209.40131147541
+  },
+  {
+    "month": "Mar 2020",
+    "monthUnix": 1596240000,
+    "gross": "5,966.91",
+    "net": "3,510.18",
+    "type": "Salary",
+    "gna": 5248.627377049181
+  },
+  {
+    "month": "Apr 2020",
+    "monthUnix": 1598918400,
+    "gross": "5,966.91",
+    "net": "3,569.41",
+    "type": "Salary",
+    "gna": 5290.55868852459
+  },
+  {
+    "month": "May 2020",
+    "monthUnix": 1601510400,
+    "gross": "5,966.91",
+    "net": "3,569.41",
+    "type": "Salary",
+    "gna": 5331.13737704918
+  },
+  {
+    "month": "Jun 2020",
+    "monthUnix": 1604188800,
+    "gross": "5,966.91",
+    "net": "3,524.91",
+    "type": "Salary",
+    "gna": 5373.06868852459
+  },
+  {
+    "month": "Jul 2020",
+    "monthUnix": 1606780800,
+    "gross": "5,966.91",
+    "net": "3,524.91",
+    "type": "Salary",
+    "gna": 5413.64737704918
+  },
+  {
+    "month": "Aug 2020",
+    "monthUnix": 1609459200,
+    "gross": "5,966.91",
+    "net": "3,524.91",
+    "type": "Salary",
+    "gna": 5455.57868852459
+  },
+  {
+    "month": "Sep 2020",
+    "monthUnix": 1612137600,
+    "gross": "5,966.91",
+    "net": "3,524.91",
+    "type": "Salary",
+    "gna": 5497.51
+  },
+  {
+    "month": "Oct 2020",
+    "monthUnix": 1614556800,
+    "gross": "5,966.91",
+    "net": "3,497.52",
+    "type": "Salary",
+    "gna": 5538.08868852459
+  },
+  {
+    "month": "Nov 2020",
+    "monthUnix": 1617235200,
+    "gross": "5,966.91",
+    "net": "3,530.02",
+    "type": "Salary",
+    "gna": 5580.02
+  },
+  {
+    "month": "Nov 2020",
+    "monthUnix": 1619827200,
+    "gross": "4,500.00",
+    "net": "3,083.57",
+    "type": "Bonus",
+    "gna": 5580.02
+  },
+  {
+    "month": "Dec 2020",
+    "monthUnix": 1622505600,
+    "gross": "6,157.83",
+    "net": "3,671.97",
+    "type": "Salary",
+    "gna": 5620.59868852459
+  },
+  {
+    "month": "Jan 2021",
+    "monthUnix": 1625097600,
+    "gross": "6,451.03",
+    "net": "3,671.97",
+    "type": "Salary",
+    "gna": 5662.53
+  },
+  {
+    "month": "Feb 2021",
+    "monthUnix": 1627776000,
+    "gross": "6,744.23",
+    "net": "4,042.54",
+    "type": "Salary",
+    "gna": 5720.590876712328
+  },
+  {
+    "month": "Mar 2021",
+    "monthUnix": 1630454400,
+    "gross": "5,829.18",
+    "net": "3,492.94",
+    "type": "Salary",
+    "gna": 5773.032958904109
+  },
+  {
+    "month": "Apr 2021",
+    "monthUnix": 1633046400,
+    "gross": "6,180.87",
+    "net": "3,646.09",
+    "type": "Salary",
+    "gna": 5831.093835616438
+  },
+  {
+    "month": "May 2021",
+    "monthUnix": 1635724800,
+    "gross": "6,169.11",
+    "net": "3,635.08",
+    "type": "Salary",
+    "gna": 5887.281780821918
+  },
+  {
+    "month": "Jun 2021",
+    "monthUnix": 1638316800,
+    "gross": "6,168.87",
+    "net": "3,634.90",
+    "type": "Salary",
+    "gna": 5945.342657534246
+  },
+  {
+    "month": "Jul 2021",
+    "monthUnix": 1640995200,
+    "gross": "6,157.83",
+    "net": "3,627.47",
+    "type": "Salary",
+    "gna": 6001.530602739726
+  },
+  {
+    "month": "Aug 2021",
+    "monthUnix": 1643673600,
+    "gross": "6,157.83",
+    "net": "3,627.47",
+    "type": "Salary",
+    "gna": 6059.591479452054
+  },
+  {
+    "month": "Sep 2021",
+    "monthUnix": 1646092800,
+    "gross": "6,157.83",
+    "net": "3,627.47",
+    "type": "Salary",
+    "gna": 6117.652356164383
+  },
+  {
+    "month": "Oct 2021",
+    "monthUnix": 1648771200,
+    "gross": "6,192.61",
+    "net": "3,572.15",
+    "type": "Salary",
+    "gna": 6173.840301369863
+  },
+  {
+    "month": "Nov 2021",
+    "monthUnix": 1651363200,
+    "gross": "5,500.00",
+    "net": "3,769.82",
+    "type": "Bonus",
+    "gna": 6231.90117808219
+  },
+  {
+    "month": "Nov 2021",
+    "monthUnix": 1654041600,
+    "gross": "6,157.83",
+    "net": "3,557.15",
+    "type": "Salary",
+    "gna": 6231.90117808219
+  },
+  {
+    "month": "Dec 2021",
+    "monthUnix": 1656633600,
+    "gross": "6,465.75",
+    "net": "3,789.49",
+    "type": "Salary",
+    "gna": 6288.089123287671
+  },
+  {
+    "month": "Jan 2022",
+    "monthUnix": 1659312000,
+    "gross": "6,465.75",
+    "net": "3,788.49",
+    "type": "Salary",
+    "gna": 6346.15
+  },
+  {
+    "month": "Feb 2022",
+    "monthUnix": 1661990400,
+    "gross": "6,465.75",
+    "net": "3,400.54",
+    "type": "Salary",
+    "gna": 6414.887616438356
+  },
+  {
+    "month": "Mar 2022",
+    "monthUnix": 1664582400,
+    "gross": "6,465.75",
+    "net": "3,400.54",
+    "type": "Salary",
+    "gna": 6476.973205479451
+  },
+  {
+    "month": "Apr 2022",
+    "monthUnix": 1667260800,
+    "gross": "6,357.72",
+    "net": "3,346.58",
+    "type": "Salary",
+    "gna": 6545.710821917808
+  },
+  {
+    "month": "May 2022",
+    "monthUnix": 1669852800,
+    "gross": "6,465.75",
+    "net": "3,401.54",
+    "type": "Salary",
+    "gna": 6612.231095890411
+  },
+  {
+    "month": "Jun 2022",
+    "monthUnix": 1672531200,
+    "gross": "6,465.75",
+    "net": "3,482.54",
+    "type": "Salary",
+    "gna": 6680.968712328767
+  },
+  {
+    "month": "Jul 2022",
+    "monthUnix": 1675209600,
+    "gross": "6,933.33",
+    "net": "3,763.30",
+    "type": "Salary",
+    "gna": 6747.48898630137
+  },
+  {
+    "month": "Aug 2022",
+    "monthUnix": 1677628800,
+    "gross": "6,933.33",
+    "net": "3,852.30",
+    "type": "Salary",
+    "gna": 6816.226602739725
+  },
+  {
+    "month": "Sep 2022",
+    "monthUnix": 1680307200,
+    "gross": "6,933.33",
+    "net": "3,852.30",
+    "type": "Salary",
+    "gna": 6884.964219178082
+  },
+  {
+    "month": "Oct 2022",
+    "monthUnix": 1682899200,
+    "gross": "6,933.33",
+    "net": "3,767.99",
+    "type": "Salary",
+    "gna": 6951.484493150685
+  },
+  {
+    "month": "Nov 2022",
+    "monthUnix": 1685577600,
+    "gross": "7,081.59",
+    "net": "3,754.99",
+    "type": "Salary",
+    "gna": 7020.22210958904
+  },
+  {
+    "month": "Nov 2022",
+    "monthUnix": 1685577600,
+    "gross": "7,000.00",
+    "net": "4,631.67",
+    "type": "Bonus",
+    "gna": 7020.22210958904
+  },
+  {
+    "month": "Dec 2022",
+    "monthUnix": 1688169600,
+    "gross": "6,933.33",
+    "net": "3,766.99",
+    "type": "Salary",
+    "gna": 7086.74238356164
+  },
+  {
+    "month": "Jan 2023",
+    "monthUnix": 1690848000,
+    "gross": "8,847.31",
+    "net": "4,917.27",
+    "type": "Salary",
+    "gna": 7155.48
+  },
+  {
+    "month": "Feb 2023",
+    "monthUnix": 1693526400,
+    "gross": "8,166.67",
+    "net": "4,504.26",
+    "type": "Salary",
+    "gna": 7242.640109589041
+  },
+  {
+    "month": "Mar 2023",
+    "monthUnix": 1696118400,
+    "gross": "8,220.11",
+    "net": "4,437.39",
+    "type": "Salary",
+    "gna": 7321.365369863013
+  },
+  {
+    "month": "Apr 2023",
+    "monthUnix": 1698796800,
+    "gross": "8,266.67",
+    "net": "4,480.71",
+    "type": "Salary",
+    "gna": 7408.525479452054
+  },
+  {
+    "month": "May 2023",
+    "monthUnix": 1701388800,
+    "gross": "8,293.39",
+    "net": "4,496.56",
+    "type": "Salary",
+    "gna": 7492.87397260274
+  },
+  {
+    "month": "Jun 2023",
+    "monthUnix": 1704067200,
+    "gross": "8,266.67",
+    "net": "4,480.71",
+    "type": "Salary",
+    "gna": 7580.034082191781
+  },
+  {
+    "month": "Jul 2023",
+    "monthUnix": 1706745600,
+    "gross": "8,266.67",
+    "net": "4,480.71",
+    "type": "Salary",
+    "gna": 7664.382575342465
+  },
+  {
+    "month": "Aug 2023",
+    "monthUnix": 1709251200,
+    "gross": "8,266.67",
+    "net": "4,480.71",
+    "type": "Salary",
+    "gna": 7751.542684931506
+  },
+  {
+    "month": "Sep 2023",
+    "monthUnix": 1711929600,
+    "gross": "8,266.67",
+    "net": "4,480.71",
+    "type": "Salary",
+    "gna": 7838.702794520548
+  },
+  {
+    "month": "Oct 2023",
+    "monthUnix": 1714521600,
+    "gross": "8,266.67",
+    "net": "4,306.29",
+    "type": "Salary",
+    "gna": 7923.051287671233
+  },
+  {
+    "month": "Nov 2023",
+    "monthUnix": 1717200000,
+    "gross": "6,000.00",
+    "net": "3,970.43",
+    "type": "Bonus",
+    "gna": 8010.21139726027
+  },
+  {
+    "month": "Nov 2023",
+    "monthUnix": 1719792000,
+    "gross": "8,266.67",
+    "net": "4,277.29",
+    "type": "Salary",
+    "gna": 8010.21139726027
+  },
+  {
+    "month": "Dec 2023",
+    "monthUnix": 1722470400,
+    "gross": "8,273.38",
+    "net": "4,306.29",
+    "type": "Salary",
+    "gna": 8094.559890410959
+  },
+  {
+    "month": "Jan 2024",
+    "monthUnix": 1725148800,
+    "gross": "8,683.33",
+    "net": "4,556.76",
+    "type": "Salary",
+    "gna": 8181.72
+  },
+  {
+    "month": "Feb 2024",
+    "monthUnix": 1727740800,
+    "gross": "7,710.93",
+    "net": "4,212.39",
+    "type": "Salary",
+    "gna": 8247.833005464481
+  },
+  {
+    "month": "Mar 2024",
+    "monthUnix": 1730419200,
+    "gross": "8,683.33",
+    "net": "4,568.76",
+    "type": "Salary",
+    "gna": 8309.680655737706
+  },
+  {
+    "month": "Apr 2024",
+    "monthUnix": 1733011200,
+    "gross": "8,773.65",
+    "net": "4,554.76",
+    "type": "Salary",
+    "gna": 8375.793661202186
+  },
+  {
+    "month": "May 2024",
+    "monthUnix": 1735689600,
+    "gross": "8,683.33",
+    "net": "4,553.76",
+    "type": "Salary",
+    "gna": 8439.773989071038
+  },
+  {
+    "month": "Jun 2024",
+    "monthUnix": 1738368000,
+    "gross": "8,683.33",
+    "net": "4,554.76",
+    "type": "Salary",
+    "gna": 8505.88699453552
+  },
+  {
+    "month": "Jul 2024",
+    "monthUnix": 1740787200,
+    "gross": "8,683.33",
+    "net": "4,554.76",
+    "type": "Salary",
+    "gna": 8569.867322404372
+  },
+  {
+    "month": "Aug 2024",
+    "monthUnix": 1743465600,
+    "gross": "8,683.33",
+    "net": "4,501.69",
+    "type": "Salary",
+    "gna": 8635.980327868852
+  },
+  {
+    "month": "Sep 2024",
+    "monthUnix": 1746057600,
+    "gross": "8,683.33",
+    "net": "4,501.69",
+    "type": "Salary",
+    "gna": 8702.093333333334
+  },
+  {
+    "month": "Oct 2024",
+    "monthUnix": 1748736000,
+    "gross": "8,714.11",
+    "net": "4,626.79",
+    "type": "Salary",
+    "gna": 8766.073661202186
+  },
+  {
+    "month": "Nov 2024",
+    "monthUnix": 1751328000,
+    "gross": "6,000.00",
+    "net": "3,969.44",
+    "type": "Bonus",
+    "gna": 8832.18666666667
+  },
+  {
+    "month": "Nov 2024",
+    "monthUnix": 1754006400,
+    "gross": "8,683.33",
+    "net": "4,597.79",
+    "type": "Salary",
+    "gna": 8832.18666666667
+  },
+  {
+    "month": "Dec 2024",
+    "monthUnix": 1756684800,
+    "gross": "8,683.33",
+    "net": "4,626.79",
+    "type": "Salary",
+    "gna": 8896.16699453552
+  },
+  {
+    "month": "Jan 2025",
+    "monthUnix": null,
+    "gross": "9,931.11",
+    "net": "4,934.83",
+    "type": "Salary",
+    "gna": 8962.28
+  },
+  {
+    "month": "Feb 2025",
+    "monthUnix": null,
+    "gross": "9,764.97",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8888.689444444444
+  },
+  {
+    "month": "Mar 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8822.220555555556
+  },
+  {
+    "month": "Apr 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8748.63
+  },
+  {
+    "month": "May 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8748.63
+  },
+  {
+    "month": "Jun 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8748.63
+  },
+  {
+    "month": "Jul 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8748.63
+  },
+  {
+    "month": "Aug 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8748.63
+  },
+  {
+    "month": "Sep 2025",
+    "monthUnix": null,
+    "gross": "9,765.30",
+    "net": "4,972.43",
+    "type": "Salary",
+    "gna": 8748.63
+  }
+]

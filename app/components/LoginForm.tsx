@@ -22,7 +22,7 @@ export default function LoginForm() {
     const data = await res.json();
     if (res.ok) {
       login(data.token);
-      router.push("/dashboard");
+      router.push("/wykres");
       setMessage("Logged in successfully!");
     } else {
       setMessage(data.error || "Uo Panie, bez hasła nie da rady!");
@@ -45,7 +45,7 @@ export default function LoginForm() {
         onChange={e => setPassword(e.target.value)}
         className="border p-2"
       />
-      <button type="submit" className="bg-emerald-500 text-white p-2 cursor-pointer">
+      <button type="submit" className="bg-cyan-800 text-white p-2 cursor-pointer">
         Dalej
       </button>
       {message && <p>{message}</p>}
