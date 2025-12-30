@@ -1174,5 +1174,13 @@
   "net": "3,969.43",
   "type": "Bonus",
   "gna": 8865.12
+  },
+  {
+  "month": "Nov 2025",
+  "monthUnix": null,
+  "gross": "9,774.27",
+  "net": "4,971.43",
+  "type": "Salary",
+  "gna": 9078.16
   }
 ]
