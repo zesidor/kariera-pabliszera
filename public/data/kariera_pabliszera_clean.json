@@ -1182,5 +1182,45 @@
   "net": "4,971.43",
   "type": "Salary",
   "gna": 9078.16
+  },
+  {
+  "month": "Dec 2025",
+  "monthUnix": null,
+  "gross": "9,765.30",
+  "net": "4,972.43",
+  "type": "Salary",
+  "gna": 9583.31
+  },
+  {
+  "month": "Jan 2026",
+  "monthUnix": null,
+  "gross": "12,118.54",
+  "net": "6,385.10",
+  "type": "Salary",
+  "gna": 9002.47
+  },
+  {
+  "month": "Feb 2026",
+  "monthUnix": null,
+  "gross": "10,277.48",
+  "net": "5,209.32",
+  "type": "Salary",
+  "gna":  9135.69
+  },
+  {
+  "month": "Mar 2026",
+  "monthUnix": null,
+  "gross": "10,200.08",
+  "net": "5,218.32",
+  "type": "Salary",
+  "gna":  9652.19
+  },
+  {
+  "month": "Apr 2026",
+  "monthUnix": null,
+  "gross": " 10,320.88",
+  "net": "5,291.52",
+  "type": "Salary",
+  "gna":  8271.99
   }
 ]
