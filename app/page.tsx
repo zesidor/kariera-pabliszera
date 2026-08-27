@@ -16,9 +16,9 @@ export default function Home() {
         <section className="w-full max-w-md flex flex-col gap-6  p-6 ">
           {!token ? (
             <>
-             {/* <h2 className="text-lg font-semibold">Register</h2>
+              <h2 className="text-lg font-semibold">Register</h2>
               <RegisterForm />
-              <h2 className="text-lg font-semibold">By wejść w te progi oddaj chołd Prezesowi</h2>*/}
+              <h2 className="text-lg font-semibold">By wejść w te progi oddaj chołd Prezesowi</h2>
               <LoginForm />
             </>
           ) : (
