@@ -7,7 +7,7 @@ import { useRouter } from "next/navigation";
 export default function LoginForm() {
   const { login } = useAuth();
   //const [email, setEmail] = useState("");
-  const email = "zesidor@gmail.com";
+  const email = "pawelsidor@outlook.com";
   const [password, setPassword] = useState("");
   const [message, setMessage] = useState("");
   const router = useRouter();
