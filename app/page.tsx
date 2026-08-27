@@ -1,7 +1,7 @@
 "use client";
 
 //import Image from "next/image";
-//import RegisterForm from "../app/components/RegisterForm";
+import RegisterForm from "../app/components/RegisterForm";
 import LoginForm from "../app/components/LoginForm";
 import { useAuth } from "../app/context/AuthContext";
 
